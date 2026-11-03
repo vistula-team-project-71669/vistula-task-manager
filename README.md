@@ -23,9 +23,10 @@ A simple web-based Task Manager application.
 - Store tasks in Supabase database
 
 ## Links
-- GitHub Repository: ADD_REPOSITORY_LINK
-- Live Application: ADD_GITHUB_PAGES_LINK
-- Contribution Page: ADD_CONTRIBUTION_LINK
+- GitHub Repository: https://github.com/vistula-team-project-71669/vistula-task-manager
+- Live Application: https://vistula-team-project-71669.github.io/vistula-task-manager/
+- Contribution Page: https://vistula-team-project-71669.github.io/vistula-task-manager/contribution.html
 
 ## Team Collaboration
-Pull Request links will be added after completing the collaboration task.
+- Pull Request 1: https://github.com/vistula-team-project-71669/vistula-task-manager/pull/1
+- Pull Request 2: https://github.com/Siialitski71669/vistula-task-manager/pull/1
